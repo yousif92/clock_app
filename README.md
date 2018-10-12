@@ -11,3 +11,6 @@ button to add an analog clock and the second one to add a digital one. Every
 time the user adds a new clock, it will show up one the screen. Every clock will 
 be number to show which one was created first.
 
+![Image of homescreen](https://github.com/yousif92/clock_app/blob/master/resources/1.png)
+![Image of homescreen](https://github.com/yousif92/clock_app/blob/master/resources/2.png)
+![Image of homescreen](https://github.com/yousif92/clock_app/blob/master/resources/3.png)
