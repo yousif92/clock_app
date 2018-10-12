@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomClockAssignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_analog_button_text">Add Analog</string>
+    <string name="add_digital_button_text">Add Digital</string>
+</resources>
